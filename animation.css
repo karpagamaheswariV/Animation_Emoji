@@ -9,7 +9,9 @@
     justify-content: center;
     align-items: center;
     height: 700px;
-    background-image: linear-gradient(rgb(106, 61, 227),rgb(185, 67, 203),rgb(210, 61, 227),rgb(106, 61, 227));
+    background-image: url(ice1.avif);
+    background-repeat: no-repeat;
+    background-size: 1500px 750px;
   }
   
   .container {
